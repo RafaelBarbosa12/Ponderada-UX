@@ -2,13 +2,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;Este documento descreve o processo de criação e adaptação de uma barra de navegação (navbar) desenvolvida no Figma e exportada para HTML, com ajustes manuais para correção de layout.
 
-## 🎨 Design no Figma
+## Design no Figma
 
 - O design da navbar foi criado no Figma.
 - Utilizamos Auto Layout para facilitar o alinhamento e espaçamento entre os elementos da navbar (como ícones e texto).
 - Ao final do processo, criamos um componente Figma para facilitar nas alterações futuras.
 
-## 🧩 Exportação com Figma to Code
+## Exportação com Figma to Code
 
 - Utilizamos a funcionalidade **Figma to Code (HTML)** para gerar automaticamente o código HTML da navbar Entretanto, algumas limitações foram encontradas, como o ícone de perfil que não foi exportado corretamente.
 
