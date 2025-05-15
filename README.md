@@ -19,11 +19,11 @@
 
 - Para visualização da tela em HTML basta rodar o arquivo localizado [aqui](navibar.html)
 
-## 📎 Link do Projeto no Figma
+## Link do Projeto no Figma
 
 [Acesse o design no Figma](https://www.figma.com/design/P0tUTwBcbGAiwLjYKmRty7/Ponderada-UX?node-id=3-11&m=dev)
 
-## 📎 Relato:
+## Relato:
 
 &nbsp;&nbsp;&nbsp;&nbsp;No começo, não conheciamos muito bem essas funcionalidades do Figma, então foi um pouco difícil entender todas as ferramentas e como usar direito. Depois de utilizar bastante, tudo começou a fazer mais sentido e conseguimos seguir com mais facilidade.
 
@@ -33,7 +33,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;No geral, foi uma experiência boa e deu pra entender melhor como o Figma funciona na prática.
 
-## 📎 Autores:
+## Autores:
 
 - <a href="https://www.linkedin.com/in/rafael-barbosa-b4386b293/">Rafael Rocha Barbosa</a>
 - <a href="https://www.linkedin.com/in/thalyta-viana/">Thalyta da Silva Viana</a>
