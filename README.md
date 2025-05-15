@@ -16,6 +16,8 @@
 
 - Com esse ajuste, a navbar foi finalizada corretamente de acordo com o design proposto no Figma.
 
+- Para visualização da tela em HTML basta rodar o arquivo localizado [aqui](navibar.html)
+
 ## 📎 Link do Projeto no Figma
 
 [Acesse o design no Figma](https://www.figma.com/design/P0tUTwBcbGAiwLjYKmRty7/Ponderada-UX?node-id=3-11&m=dev)
