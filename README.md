@@ -20,3 +20,8 @@
 
 [Acesse o design no Figma](https://www.figma.com/design/P0tUTwBcbGAiwLjYKmRty7/Ponderada-UX?node-id=3-11&m=dev)
 
+## 📎 Autores:
+
+- <a href="https://www.linkedin.com/in/rafael-barbosa-b4386b293/">Rafael Rocha Barbosa</a>
+- <a href="https://www.linkedin.com/in/thalyta-viana/">Thalyta da Silva Viana</a>
+
